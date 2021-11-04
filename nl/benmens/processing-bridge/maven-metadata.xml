@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.benmens</groupId>
+  <artifactId>processing-bridge</artifactId>
+  <versioning>
+    <versions>
+      <version>3.5.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211104185617</lastUpdated>
+  </versioning>
+</metadata>

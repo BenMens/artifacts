@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>nl.benmens</groupId>
+  <artifactId>processing-bridge</artifactId>
+  <version>3.5.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211104.185617</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211104185617</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.5.5-20211104.185617-1</value>
+        <updated>20211104185617</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.5.5-20211104.185617-1</value>
+        <updated>20211104185617</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
